@@ -8,7 +8,7 @@
  * Plugin Name:       Alt Attribute Audit
  * Plugin URI:        https://www.whalingcityweb.com/alt-tag-audit
  * Description:       Displays a list of images in the media library without alt text, and an admin message reminding you to add it.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Matt Bevilacqua
  * Author URI:        https://www.mattbev.com
  * License:           GPL-2.0+
