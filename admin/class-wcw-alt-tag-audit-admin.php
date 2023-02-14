@@ -140,7 +140,7 @@ class Wcw_Alt_Tag_Audit_Admin {
 
 
 	
-    public function render_options_page(){ ?>
+    public static function render_options_page(){ ?>
         <div class="notice notice-info is-dismissible">
             <p>If you're stuck, Penn State has <a href="http://accessibility.psu.edu/images/imageshtml/">a great guide</a> to ALT text.</p>
         </div>
