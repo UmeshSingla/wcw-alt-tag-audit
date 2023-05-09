@@ -173,8 +173,8 @@ class Wcw_Alt_Tag_Audit_Admin {
 		}
 
 
-		$post_id  = intval( santize_text_field( $_POST['media'] ) );
-		$alt_text = santize_text_field( $_POST['altText'] );
+		$post_id  = intval( sanitize_text_field( $_POST['media'] ) );
+		$alt_text = sanitize_text_field( $_POST['altText'] );
 
 		return update_post_meta( $post_id, '_wp_attachment_image_alt', $alt_text );
 
